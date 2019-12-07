@@ -691,7 +691,7 @@ PlayerSettings:
   cloudServicesEnabled:
     Analytics: 0
     Build: 0
-    Collab: 0
+    Collab: 1
     ErrorHub: 0
     Game_Performance: 0
     Hub: 0
@@ -717,10 +717,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: a3aa3e0f-8833-474b-b7b2-df2d4b45cbbf
   framebufferDepthMemorylessMode: 0
-  projectName: Platformer-2D
-  organizationId: 
+  projectName: CEV - FirstGame
+  organizationId: borras377
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
